@@ -1,3 +1,3 @@
-### This is a demo for the class
+# This is a demo for the class
 
-# smaller title
+### smaller title
